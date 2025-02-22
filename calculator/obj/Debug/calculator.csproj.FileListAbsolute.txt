@@ -1,1 +1,2 @@
 D:\calculator\calculator\bin\Debug\calculator.exe.config
+D:\demo\KTPM\calculator\bin\Debug\calculator.exe.config
